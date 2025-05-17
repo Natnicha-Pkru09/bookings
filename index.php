@@ -54,12 +54,12 @@ session_start();
 
                 <div class="mb-3">
                   <label for="name" class="form-label">Name</label>
-                  <input type="text" class="form-control" name="name" required value="paiboon">
+                  <input type="text" class="form-control" name="name" required value="natnicha">
                 </div>
 
                 <div class="mb-3">
                   <label for="email" class="form-label">Email</label>
-                  <input type="email" class="form-control" name="email" required value="paiboon@local.com">
+                  <input type="email" class="form-control" name="email" required value="natnicha@123.com">
                 </div>
 
                 <div class="mb-3">
